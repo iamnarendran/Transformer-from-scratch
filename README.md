@@ -27,6 +27,7 @@ This project demonstrates a complete implementation of the Transformer architect
 ## 🚀 Quick Start
 
 ### Clone and Run
+
 ```bash
 git clone https://github.com/iamnarendran/Transformer-from-scratch.git
 cd Transformer-from-scratch
@@ -43,6 +44,6 @@ torch.Size([2, 7, 10])
 
 | 2 → batch size
 
-7 → output sequence length (target without last token)
+| 7 → output sequence length (target without last token)
 
-10 → logits for each token in vocab (vocab size = 10)
+| 10 → logits for each token in vocab (vocab size = 10)
