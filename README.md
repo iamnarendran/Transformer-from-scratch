@@ -13,7 +13,7 @@ This project demonstrates a complete implementation of the Transformer architect
 - ✅ Fully Commented and Colab-Friendly Code  
 - ✅ Compatible with CPU or CUDA
 
-## 🧱 Architecture Overview---
+---
 
 ## 📂 Project Structure
 
