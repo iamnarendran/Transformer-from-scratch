@@ -37,9 +37,11 @@ python transformer_from_scratch.py
 
 ## Output Example
 
+```
 torch.Size([2, 7, 10])
+```
 
-2 → batch size
+| 2 → batch size
 
 7 → output sequence length (target without last token)
 
