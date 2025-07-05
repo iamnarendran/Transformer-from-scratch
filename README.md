@@ -31,6 +31,7 @@ This project demonstrates a complete implementation of the Transformer architect
 git clone https://github.com/iamnarendran/Transformer-from-scratch.git
 cd Transformer-from-scratch
 python transformer_from_scratch.py
+```
 
 ---
 
