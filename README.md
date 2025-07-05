@@ -17,8 +17,11 @@ This project demonstrates a complete implementation of the Transformer architect
 
 ## 📂 Project Structure
 
-├── transformer_from_scratch.ipbny # Complete implementation
-└── README.md # project documentation
+├── transformer_from_scratch.ipynb 
+          # Complete implementation
+└── README.md 
+          # project documentation
+
 ---
 
 ## 🚀 Quick Start
