@@ -16,11 +16,13 @@ This project demonstrates a complete implementation of the Transformer architect
 ---
 
 ## 📂 Project Structure
+```bash
 
 ├── transformer_from_scratch.ipynb 
           # Complete implementation
 └── README.md 
           # project documentation
+```
 
 ---
 
